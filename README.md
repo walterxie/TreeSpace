@@ -30,6 +30,10 @@ The animation of 1000 samples is available from
   <source src="note/TreeSpace3Taxa.mp4" type="video/mp4">
 </video>
 
+## Code
+
+The python 3 source code is available from the Jupyter Notebook file 
+[TreeSpace3Taxa.ipynb](note/TreeSpace3Taxa.ipynb)
 
 ## Diagnose
 
