@@ -22,8 +22,8 @@ Assuming Ne = 1, then the above equation is simplified to:
 
 P(k<sub>1</sub>, k<sub>2</sub>, T) = e<sup>-k<sub>1</sub></sup> * e<sup>(-3*k<sub>2</sub>)</sup>
 
-The proposal during MCMC sampling makes the equal probability change  
-_k<sub>1</sub>_ and _k<sub>2</sub>_ using the random walk algorithm, 
+The proposal during MCMC sampling makes the equal probability  
+change _k<sub>1</sub>_ and _k<sub>2</sub>_ using the random walk algorithm, 
 where the jump size _w_ is default to 0.75.
 When _k<sub>1</sub>_ is smaller than 0, there will be an equal probability 
 to change to the other two topologies.
