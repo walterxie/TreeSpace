@@ -26,7 +26,7 @@ The proposal during MCMC sampling makes the equal probability change _k<sub>1</s
 using the random walk algorithm, 
 where the jump size _w_ is default to 0.75.
 When _k<sub>1</sub>_ is smaller than 0, there will be an equal probability 
-to change to the other two topologies.
+to change the tree from this topology to any of another two topologies.
 
 The animation of 500 samples is available from 
 [here](https://walterxie.github.io/TreeSpace/).
