@@ -29,7 +29,7 @@ to change the tree from this topology to any of another two topologies.
 The animation of 500 samples is available from 
 [below](https://walterxie.github.io/TreeSpace/#taxa3).
 
-<video id="taxa3" src="note/TreeSpace3Taxa.mp4" width="640" height="600" controls preload>
+<video id="taxa3" width="640" height="600" controls preload>
   <source src="note/TreeSpace3Taxa.mp4" type="video/mp4">
 </video>
 
