@@ -33,7 +33,8 @@ The animation of 500 samples is available from
   <source src="note/TreeSpace3Taxa.mp4" type="video/mp4">
 </video>
 
-More animations with different jump size _w_ are available under the folder [note](note/).
+More animations with different jump size _w_ are available under the folder 
+[note](https://github.com/walterxie/TreeSpace/tree/master/note) in the repository.
 
 ## Code
 
