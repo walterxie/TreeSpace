@@ -39,7 +39,7 @@ More animations with different jump size _w_ are available under the folder
 ## Code
 
 The python 3 source code is available from the Jupyter Notebook file 
-[TreeSpace3Taxa.ipynb](note/TreeSpace3Taxa.ipynb)
+[TreeSpace3Taxa.ipynb](https://github.com/walterxie/TreeSpace/blob/master/note/TreeSpace3Taxa.ipynb)
 
 ## Diagnose
 
