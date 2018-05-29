@@ -26,7 +26,7 @@ The proposal during MCMC sampling makes the equal probability change _k<sub>1</s
 When _k<sub>1</sub>_ is smaller than 0, there will be an equal probability 
 to change the tree from this topology to any of another two topologies.
 
-The animation of 500 samples is available from 
+The animation of 10,000 samples is available from 
 [below](https://walterxie.github.io/TreeSpace/#taxa3).
 
 <video id="taxa3" width="640" height="600" controls preload>
